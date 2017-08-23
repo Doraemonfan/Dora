@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1502814418 source:f:\c\myc++\myc++\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<windows.h>
+
